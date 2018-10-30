@@ -8,6 +8,7 @@ class Notifier
 {
     /**
      * Session storage.
+     * heh ?
      *
      * @var Codecourse\Storage\Session
      */
